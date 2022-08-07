@@ -1,12 +1,12 @@
 [submodule "at-sms-django-integration"]
 path = at-sms-django-integration
-url = git@github.com:freddiedfre/at-sms-django-integration.git
+url = https://github.com/freddiedfre/at-sms-django-integration.git
 branch = master
 [submodule "at-voice-django-integration"]
 path = at-voice-django-integration
-url = git@github.com:freddiedfre/at-voice-django-integration.git
+url = https://github.com/freddiedfre/at-voice-django-integration.git
 branch = master
 [submodule "at-ussd-django-integration"]
 path = at-ussd-django-integration
-url = git@github.com:freddiedfre/at-ussd-django-integration.git
+url = https://github.com/freddiedfre/at-ussd-django-integration.git
 branch = master
